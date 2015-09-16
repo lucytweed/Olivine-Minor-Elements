@@ -1,5 +1,5 @@
 # Olivine-Minor-Elements
-Cambridge University Part III project. Investigating if minor element concentrations (Principally looking at Ni and Mn) of olivines in primitive Icelandic basalts can be used to constrain source mantle lithology. 
+Cambridge University Part III project 2013-2014. Investigating if minor element concentrations (Principally looking at Ni and Mn) of olivines in primitive Icelandic basalts can be used to constrain source mantle lithology. 
 
 Project involves data collection for 4 different eruptions on Iceland. Samples collected in Iceland during Summer 2013. Major and minor element compositions measured by elctron probe in Cambridge.
 
