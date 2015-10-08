@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="141.552mm"
+   height="111.39mm"
+   version="1.2"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="T-F3.svg">
+  <metadata
+     id="metadata482">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     id="namedview480"
+     showgrid="false"
+     inkscape:zoom="1.164362"
+     inkscape:cx="355.37263"
+     inkscape:cy="146.82269"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">Qt Svg Document</title>
+  <desc
+     id="desc6">Generated with Qt</desc>
+  <defs
+     id="defs8" />
+  <g
+     id="g3242"
+     transform="matrix(1.0857143,0,0,1.0857143,-44.153537,-36.443153)">
+    <g
+       id="g10"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <g
+         id="g12"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:0;stroke:none;font-family:Ubuntu">
+        <path
+           id="path14"
+           d="M 5,5 530,5 530,411 5,411 5,5"
+           vector-effect="non-scaling-stroke"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd" />
+      </g>
+      <g
+         id="g16"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:none;font-family:Ubuntu">
+        <path
+           id="path18"
+           d="M 5,5 530,5 530,411 5,411 5,5"
+           vector-effect="non-scaling-stroke"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g20"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g22"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:0;stroke:none;font-family:Ubuntu">
+        <path
+           id="path24"
+           d="m 73,41 433,0 0,306 -433,0 0,-306"
+           vector-effect="non-scaling-stroke"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd" />
+      </g>
+      <g
+         id="g26"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g28"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g30"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g32"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g34"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         stroke-miterlimit="2"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1;font-family:Ubuntu">
+        <polyline
+           id="polyline36"
+           points="107.64,347 111.97,346.645 116.3,344.846 120.63,342.228 124.96,338.997 129.29,335.254 133.62,331.06 137.95,326.459 142.28,321.486 146.61,316.166 150.94,310.519 155.27,304.565 159.6,298.318 163.93,291.792 168.26,284.998 172.59,277.945 176.92,270.644 181.25,264.921 185.58,264.189 189.91,263.049 194.24,261.618 198.57,259.945 202.9,258.062 207.23,255.99 211.56,253.744 215.89,251.337 220.22,248.78 224.55,246.081 228.88,243.246 233.21,240.283 237.54,237.195 241.87,233.989 246.2,230.669 250.53,227.238 254.86,223.699 259.19,220.056 263.52,216.312 267.85,212.47 272.18,208.531 276.51,204.499 280.84,200.374 285.17,196.161 289.5,191.859 293.83,187.471 298.16,182.999 302.49,178.444 306.82,173.808 311.15,169.092 315.48,164.297 319.81,159.425 324.14,154.476 328.47,149.453 332.8,144.356 337.13,139.186 341.46,133.944 345.79,128.631 350.12,123.249 354.45,117.797 358.78,112.277 363.11,106.69 367.44,101.037 371.77,95.3173 376.1,89.5329 380.43,83.6842 384.76,77.772 389.09,71.7969 393.42,65.7595 397.75,59.6605 402.08,53.5006 406.41,47.2802 410.74,41 "
+           vector-effect="non-scaling-stroke"
+           style="fill:none" />
+      </g>
+      <g
+         id="g38"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g40"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g42"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g44"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         stroke-miterlimit="2"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1;font-family:Ubuntu">
+        <polyline
+           id="polyline46"
+           points="163.93,347 168.26,346.185 172.59,343.704 176.92,340.291 181.25,336.156 185.58,331.406 189.91,326.115 194.24,320.331 198.57,314.095 202.9,307.437 207.23,300.381 211.56,292.95 215.89,285.162 220.22,278.598 224.55,277.738 228.88,276.368 233.21,274.637 237.54,272.609 241.87,270.323 246.2,267.804 250.53,265.073 254.86,262.145 259.19,259.033 263.52,255.746 267.85,252.294 272.18,248.684 276.51,244.924 280.84,241.017 285.17,236.971 289.5,232.789 293.83,228.476 298.16,224.036 302.49,219.472 306.82,214.787 311.15,209.985 315.48,205.069 319.81,200.04 324.14,194.902 328.47,189.656 332.8,184.306 337.13,178.852 341.46,173.297 345.79,167.642 350.12,161.89 354.45,156.042 358.78,150.1 363.11,144.064 367.44,137.937 371.77,131.719 376.1,125.413 380.43,119.018 384.76,112.538 389.09,105.972 393.42,99.3211 397.75,92.5874 402.08,85.7715 406.41,78.8743 410.74,71.8969 415.07,64.84 419.4,57.7047 423.73,50.4916 428.06,43.2018 432.39,41 "
+           vector-effect="non-scaling-stroke"
+           style="fill:none" />
+      </g>
+      <g
+         id="g48"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g50"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g52"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g54"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         stroke-miterlimit="2"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1;font-family:Ubuntu">
+        <polyline
+           id="polyline56"
+           points="215.89,347 220.22,345.364 224.55,341.938 228.88,337.428 233.21,332.052 237.54,325.932 241.87,319.15 246.2,311.764 250.53,303.821 254.86,295.357 259.19,288.333 263.52,287.256 267.85,285.561 272.18,283.424 276.51,280.924 280.84,278.107 285.17,275.005 289.5,271.643 293.83,268.039 298.16,264.209 302.49,260.165 306.82,255.919 311.15,251.478 315.48,246.852 319.81,242.048 324.14,237.071 328.47,231.928 332.8,226.624 337.13,221.164 341.46,215.552 345.79,209.792 350.12,203.887 354.45,197.842 358.78,191.659 363.11,185.342 367.44,178.893 371.77,172.314 376.1,165.609 380.43,158.78 384.76,151.828 389.09,144.757 393.42,137.568 397.75,130.262 402.08,122.842 406.41,115.31 410.74,107.667 415.07,99.9144 419.4,92.0542 423.73,84.0876 428.06,76.0162 432.39,67.8412 436.72,59.5639 441.05,51.1856 445.38,42.7075 449.71,41 "
+           vector-effect="non-scaling-stroke"
+           style="fill:none" />
+      </g>
+      <g
+         id="g58"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g60"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g62"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g64"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         stroke-miterlimit="2"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1;font-family:Ubuntu">
+        <polyline
+           id="polyline66"
+           points="259.19,347 263.52,346.856 267.85,343.939 272.18,339.175 276.51,333.123 280.84,326.015 285.17,317.99 289.5,309.143 293.83,299.544 298.16,295.217 302.49,293.524 306.82,291.183 311.15,288.339 315.48,285.071 319.81,281.426 324.14,277.442 328.47,273.144 332.8,268.554 337.13,263.69 341.46,258.566 345.79,253.194 350.12,247.587 354.45,241.752 358.78,235.7 363.11,229.436 367.44,222.969 371.77,216.304 376.1,209.448 380.43,202.405 384.76,195.179 389.09,187.777 393.42,180.201 397.75,172.457 402.08,164.546 406.41,156.473 410.74,148.241 415.07,139.853 419.4,131.311 423.73,122.619 428.06,113.779 432.39,104.794 436.72,95.6652 441.05,86.3955 445.38,76.9869 449.71,67.4415 454.04,57.7611 458.37,47.9476 462.7,41 "
+           vector-effect="non-scaling-stroke"
+           style="fill:none" />
+      </g>
+      <g
+         id="g68"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g70"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g72"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g74"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         stroke-miterlimit="2"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1;font-family:Ubuntu">
+        <polyline
+           id="polyline76"
+           points="302.49,347 306.82,346.091 311.15,341.488 315.48,334.79 319.81,326.524 324.14,316.945 328.47,306.214 332.8,300.837 337.13,298.748 341.46,295.831 345.79,292.278 350.12,288.188 354.45,283.623 358.78,278.629 363.11,273.239 367.44,267.482 371.77,261.378 376.1,254.948 380.43,248.205 384.76,241.166 389.09,233.84 393.42,226.24 397.75,218.374 402.08,210.252 406.41,201.881 410.74,193.269 415.07,184.422 419.4,175.345 423.73,166.046 428.06,156.528 432.39,146.798 436.72,136.859 441.05,126.716 445.38,116.372 449.71,105.832 454.04,95.0992 458.37,84.177 462.7,73.0685 467.03,61.777 471.36,50.3053 475.69,41 "
+           vector-effect="non-scaling-stroke"
+           style="fill:none" />
+      </g>
+      <g
+         id="g78"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g80"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g82"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g84"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         stroke-miterlimit="2"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1;font-family:Ubuntu">
+        <polyline
+           id="polyline86"
+           points="341.46,347 345.79,344.331 350.12,337.264 354.45,327.701 358.78,316.178 363.11,305.821 367.44,303.681 371.77,300.308 376.1,296.055 380.43,291.079 384.76,285.471 389.09,279.297 393.42,272.604 397.75,265.43 402.08,257.805 406.41,249.754 410.74,241.299 415.07,232.458 419.4,223.247 423.73,213.682 428.06,203.773 432.39,193.534 436.72,182.974 441.05,172.102 445.38,160.928 449.71,149.459 454.04,137.703 458.37,125.667 462.7,113.356 467.03,100.778 471.36,87.9368 475.69,74.8387 480.02,61.4883 484.35,47.8904 488.68,41 "
+           vector-effect="non-scaling-stroke"
+           style="fill:none" />
+      </g>
+      <g
+         id="g88"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g90"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g92"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g94"
+         font-style="normal"
+         font-weight="700"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:700;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g96"
+         font-style="normal"
+         font-weight="700"
+         font-size="17.3333"
+         style="font-size:17.33329964px;font-style:normal;font-weight:700;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu">
+        <text
+           id="text98"
+           font-style="normal"
+           font-weight="700"
+           font-size="17.3333"
+           y="22"
+           x="265.422"
+           xml:space="preserve"
+           style="font-size:17.33329964px;font-style:normal;font-weight:700;fill:#3c3c3c;fill-opacity:1;stroke:none;font-family:Ubuntu"> </text>
+      </g>
+      <g
+         id="g100"
+         font-style="normal"
+         font-weight="700"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:700;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g102"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="matrix(0,-1,1,0,5,357)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g104"
+         font-style="normal"
+         font-weight="400"
+         font-size="21.3333"
+         transform="matrix(0,-1,1,0,5,357)"
+         style="font-size:21.33329964px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text106"
+           font-style="normal"
+           font-weight="400"
+           font-size="21.3333"
+           y="26.328291"
+           x="97.842377"
+           xml:space="preserve"
+           style="font-size:14.73684216px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">Melt fraction (wt%)</text>
+      </g>
+      <g
+         id="g108"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="matrix(0,-1,1,0,5,357)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g110"
+         font-style="normal"
+         font-weight="700"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:700;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g112"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g114"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g116"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(48,336)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text118"
+           font-style="normal"
+           font-weight="400"
+           font-size="18.6667"
+           y="14.626891"
+           x="7.1193271"
+           xml:space="preserve"
+           style="font-size:12.89473629px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">0</text>
+      </g>
+      <g
+         id="g120"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(48,336)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g122"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g124"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(33,275)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text126"
+           font-style="normal"
+           font-weight="400"
+           font-size="18.6667"
+           y="14.626891"
+           x="7.1193271"
+           xml:space="preserve"
+           style="font-size:12.89473629px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">0.2</text>
+      </g>
+      <g
+         id="g128"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(33,275)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g130"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g132"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(33,214)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text134"
+           font-style="normal"
+           font-weight="400"
+           font-size="18.6667"
+           y="14.626891"
+           x="7.1193271"
+           xml:space="preserve"
+           style="font-size:12.89473629px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">0.4</text>
+      </g>
+      <g
+         id="g136"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(33,214)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g138"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g140"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(33,152)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text142"
+           font-style="normal"
+           font-weight="400"
+           font-size="18.6667"
+           y="14.626891"
+           x="7.1193271"
+           xml:space="preserve"
+           style="font-size:12.89473629px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">0.6</text>
+      </g>
+      <g
+         id="g144"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(33,152)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g146"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g148"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(33,91)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text150"
+           font-style="normal"
+           font-weight="400"
+           font-size="18.6667"
+           y="14.626891"
+           x="7.1193271"
+           xml:space="preserve"
+           style="font-size:12.89473629px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">0.8</text>
+      </g>
+      <g
+         id="g152"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(33,91)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g154"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g156"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(49,30)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text158"
+           font-style="normal"
+           font-weight="400"
+           font-size="18.6667"
+           y="14.626891"
+           x="7.1193271"
+           xml:space="preserve"
+           style="font-size:12.89473629px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">1</text>
+      </g>
+      <g
+         id="g160"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(49,30)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g162"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g164"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g166"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <polyline
+           id="polyline168"
+           points="73,332 69,332 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline170"
+           points="73,301 69,301 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline172"
+           points="73,271 69,271 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline174"
+           points="73,240 69,240 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline176"
+           points="73,209 69,209 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline178"
+           points="73,179 69,179 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline180"
+           points="73,148 69,148 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline182"
+           points="73,117 69,117 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline184"
+           points="73,87 69,87 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline186"
+           points="73,56 69,56 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline188"
+           points="73,316 69,316 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline190"
+           points="73,255 69,255 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline192"
+           points="73,194 69,194 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline194"
+           points="73,133 69,133 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline196"
+           points="73,72 69,72 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline198"
+           points="73,347 64,347 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline200"
+           points="73,286 64,286 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline202"
+           points="73,225 64,225 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline204"
+           points="73,163 64,163 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline206"
+           points="73,102 64,102 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline208"
+           points="73,41 64,41 "
+           vector-effect="none"
+           style="fill:none" />
+      </g>
+      <g
+         id="g210"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g212"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <polyline
+           id="polyline214"
+           points="73,41 73,347 "
+           vector-effect="none"
+           style="fill:none" />
+      </g>
+      <g
+         id="g216"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g218"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g220"
+         font-style="normal"
+         font-weight="700"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:700;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g222"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         transform="matrix(0,-1,1,0,518,346)"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g224"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         transform="matrix(0,-1,1,0,518,346)"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g226"
+         font-style="normal"
+         font-weight="700"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:700;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g228"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g230"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu">
+        <polyline
+           id="polyline232"
+           points="506,332 510,332 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline234"
+           points="506,301 510,301 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline236"
+           points="506,271 510,271 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline238"
+           points="506,240 510,240 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline240"
+           points="506,209 510,209 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline242"
+           points="506,179 510,179 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline244"
+           points="506,148 510,148 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline246"
+           points="506,117 510,117 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline248"
+           points="506,87 510,87 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline250"
+           points="506,56 510,56 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline252"
+           points="506,316 510,316 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline254"
+           points="506,255 510,255 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline256"
+           points="506,194 510,194 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline258"
+           points="506,133 510,133 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline260"
+           points="506,72 510,72 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline262"
+           points="506,347 515,347 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline264"
+           points="506,286 515,286 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline266"
+           points="506,225 515,225 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline268"
+           points="506,163 515,163 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline270"
+           points="506,102 515,102 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline272"
+           points="506,41 515,41 "
+           vector-effect="none"
+           style="fill:none" />
+      </g>
+      <g
+         id="g274"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g276"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu">
+        <polyline
+           id="polyline278"
+           points="506,41 506,347 "
+           vector-effect="none"
+           style="fill:none" />
+      </g>
+      <g
+         id="g280"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g282"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g284"
+         font-style="normal"
+         font-weight="700"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:700;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g286"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(49,384)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g288"
+         font-style="normal"
+         font-weight="400"
+         font-size="21.3333"
+         transform="translate(49,384)"
+         style="font-size:21.33329964px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g290"
+         font-style="normal"
+         font-weight="400"
+         font-size="21.3333"
+         transform="translate(49,385)"
+         style="font-size:21.33329964px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text292"
+           font-style="normal"
+           font-weight="400"
+           font-size="21.3333"
+           y="-0.35798025"
+           x="165.9843"
+           xml:space="preserve"
+           style="font-size:14.73684216px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">Temperature (</text>
+        <text
+           id="text294"
+           font-style="normal"
+           font-weight="400"
+           font-size="13.3333"
+           y="-8.0942116"
+           x="258.45517"
+           xml:space="preserve"
+           style="font-size:9.21052619px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">o</text>
+        <text
+           id="text296"
+           font-style="normal"
+           font-weight="400"
+           font-size="21.3333"
+           y="0.20136689"
+           x="264.06158"
+           xml:space="preserve"
+           style="font-size:14.73684216px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">C)</text>
+      </g>
+      <g
+         id="g298"
+         font-style="normal"
+         font-weight="400"
+         font-size="21.3333"
+         transform="translate(49,384)"
+         style="font-size:21.33329964px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g300"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(49,384)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g302"
+         font-style="normal"
+         font-weight="700"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:700;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g304"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g306"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g308"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(49,361)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text310"
+           font-style="normal"
+           font-weight="400"
+           font-size="18.6667"
+           y="6.9254918"
+           x="6.1935043"
+           xml:space="preserve"
+           style="font-size:12.89473629px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">1,000</text>
+      </g>
+      <g
+         id="g312"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(49,361)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g314"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g316"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(136,361)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text318"
+           font-style="normal"
+           font-weight="400"
+           font-size="18.6667"
+           y="6.9254918"
+           x="6.1935043"
+           xml:space="preserve"
+           style="font-size:12.89473629px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">1,200</text>
+      </g>
+      <g
+         id="g320"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(136,361)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g322"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g324"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(222,361)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text326"
+           font-style="normal"
+           font-weight="400"
+           font-size="18.6667"
+           y="6.9254918"
+           x="6.1935043"
+           xml:space="preserve"
+           style="font-size:12.89473629px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">1,400</text>
+      </g>
+      <g
+         id="g328"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(222,361)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g330"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g332"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(309,361)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text334"
+           font-style="normal"
+           font-weight="400"
+           font-size="18.6667"
+           y="6.9254918"
+           x="6.1935043"
+           xml:space="preserve"
+           style="font-size:12.89473629px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">1,600</text>
+      </g>
+      <g
+         id="g336"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(309,361)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g338"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g340"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(395,361)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text342"
+           font-style="normal"
+           font-weight="400"
+           font-size="18.6667"
+           y="6.9254918"
+           x="6.1935043"
+           xml:space="preserve"
+           style="font-size:12.89473629px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">1,800</text>
+      </g>
+      <g
+         id="g344"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(395,361)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g346"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g348"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(482,361)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <text
+           id="text350"
+           font-style="normal"
+           font-weight="400"
+           font-size="18.6667"
+           y="6.9254918"
+           x="6.1935043"
+           xml:space="preserve"
+           style="font-size:12.89473629px;font-style:normal;font-weight:400;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans">2,000</text>
+      </g>
+      <g
+         id="g352"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         transform="translate(482,361)"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g354"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g356"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g358"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <polyline
+           id="polyline360"
+           points="95,347 95,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline362"
+           points="138,347 138,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline364"
+           points="181,347 181,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline366"
+           points="225,347 225,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline368"
+           points="268,347 268,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline370"
+           points="311,347 311,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline372"
+           points="354,347 354,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline374"
+           points="398,347 398,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline376"
+           points="441,347 441,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline378"
+           points="484,347 484,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline380"
+           points="116,347 116,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline382"
+           points="203,347 203,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline384"
+           points="290,347 290,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline386"
+           points="376,347 376,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline388"
+           points="463,347 463,351 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline390"
+           points="73,347 73,356 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline392"
+           points="160,347 160,356 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline394"
+           points="246,347 246,356 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline396"
+           points="333,347 333,356 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline398"
+           points="419,347 419,356 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline400"
+           points="506,347 506,356 "
+           vector-effect="none"
+           style="fill:none" />
+      </g>
+      <g
+         id="g402"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g404"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans">
+        <polyline
+           id="polyline406"
+           points="73,347 506,347 "
+           vector-effect="none"
+           style="fill:none" />
+      </g>
+      <g
+         id="g408"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g410"
+         font-style="normal"
+         font-weight="400"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:FreeSans" />
+      <g
+         id="g412"
+         font-style="normal"
+         font-weight="700"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:700;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g414"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         transform="translate(73,31)"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g416"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         transform="translate(73,31)"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g418"
+         font-style="normal"
+         font-weight="700"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:700;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g420"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g422"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu">
+        <polyline
+           id="polyline424"
+           points="95,41 95,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline426"
+           points="138,41 138,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline428"
+           points="181,41 181,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline430"
+           points="225,41 225,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline432"
+           points="268,41 268,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline434"
+           points="311,41 311,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline436"
+           points="354,41 354,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline438"
+           points="398,41 398,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline440"
+           points="441,41 441,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline442"
+           points="484,41 484,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline444"
+           points="116,41 116,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline446"
+           points="203,41 203,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline448"
+           points="290,41 290,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline450"
+           points="376,41 376,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline452"
+           points="463,41 463,37 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline454"
+           points="73,41 73,32 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline456"
+           points="160,41 160,32 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline458"
+           points="246,41 246,32 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline460"
+           points="333,41 333,32 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline462"
+           points="419,41 419,32 "
+           vector-effect="none"
+           style="fill:none" />
+        <polyline
+           id="polyline464"
+           points="506,41 506,32 "
+           vector-effect="none"
+           style="fill:none" />
+      </g>
+      <g
+         id="g466"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g468"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu">
+        <polyline
+           id="polyline470"
+           points="73,41 506,41 "
+           vector-effect="none"
+           style="fill:none" />
+      </g>
+      <g
+         id="g472"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g474"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g476"
+         font-style="normal"
+         font-weight="700"
+         font-size="18.6667"
+         style="font-size:18.66670036px;font-style:normal;font-weight:700;fill:none;stroke:#3c3c3c;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+      <g
+         id="g478"
+         font-style="normal"
+         font-weight="400"
+         font-size="14.6667"
+         style="font-size:14.66670036px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu" />
+    </g>
+    <g
+       transform="translate(-16.396862,17.91509)"
+       id="g4370">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect3522"
+         width="50.918686"
+         height="19.433317"
+         x="88.574417"
+         y="323.02231"
+         transform="matrix(0.72903648,-0.68447484,0.68447484,0.72903648,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.81578922px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="86.681931"
+         y="342.89465"
+         id="text3459"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.71171435,-0.70246899,0.70246899,0.71171435,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3461"
+           x="86.681931"
+           y="342.89465">0 GPa</tspan></text>
+    </g>
+    <g
+       transform="translate(-6.0729118,8.5020765)"
+       id="g4375">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect3522-7"
+         width="50.918686"
+         height="19.433317"
+         x="97.227341"
+         y="351.13846"
+         transform="matrix(0.72903648,-0.68447484,0.68447484,0.72903648,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.81578922px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="65.809921"
+         y="375.79306"
+         id="text3459-6"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.65860322,-0.7524904,0.7524904,0.65860322,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3461-8"
+           x="65.809921"
+           y="375.79306">1 GPa</tspan></text>
+    </g>
+    <g
+       transform="translate(4.5546839,-5.1619751)"
+       id="g4382">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect3522-9"
+         width="50.918686"
+         height="19.433317"
+         x="104.79826"
+         y="373.24069"
+         transform="matrix(0.72903648,-0.68447484,0.68447484,0.72903648,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.81578922px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="37.487026"
+         y="406.03876"
+         id="text3459-3"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.59331571,-0.80496985,0.80496985,0.59331571,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3461-89"
+           x="37.487026"
+           y="406.03876">2 GPa</tspan></text>
+    </g>
+    <g
+       transform="translate(12.145824,-21.558837)"
+       id="g4387">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect3522-0"
+         width="50.918686"
+         height="19.433317"
+         x="110.37197"
+         y="400.13187"
+         transform="matrix(0.72903648,-0.68447484,0.68447484,0.72903648,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.81578922px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="22.11203"
+         y="434.88608"
+         id="text3459-2"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.5583576,-0.82960038,0.82960038,0.5583576,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3461-88"
+           x="22.11203"
+           y="434.88608">3 GPa</tspan></text>
+    </g>
+    <g
+       transform="translate(16.700508,-36.741117)"
+       id="g4392">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect3522-76"
+         width="50.918686"
+         height="19.433317"
+         x="2.2358618"
+         y="445.73651"
+         transform="matrix(0.53270101,-0.84630351,0.84630351,0.53270101,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.81578922px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="-21.795437"
+         y="458.97379"
+         id="text3459-1"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.47355215,-0.88076578,0.88076578,0.47355215,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3461-3"
+           x="-21.795437"
+           y="458.97379">4 GPa</tspan></text>
+    </g>
+    <g
+       transform="translate(20.344255,-45.243193)"
+       id="g4397">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect3522-2"
+         width="50.918686"
+         height="19.433317"
+         x="-13.068192"
+         y="462.94241"
+         transform="matrix(0.5005492,-0.86570809,0.86570809,0.5005492,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.81578922px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="-44.770451"
+         y="479.01364"
+         id="text3459-62"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.42675503,-0.90436726,0.90436726,0.42675503,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3461-1"
+           x="-44.770451"
+           y="479.01364">5 GPa</tspan></text>
+    </g>
+  </g>
+</svg>
