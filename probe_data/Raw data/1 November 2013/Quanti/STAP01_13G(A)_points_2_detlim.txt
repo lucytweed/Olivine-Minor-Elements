@@ -1,0 +1,78 @@
+FileName :   STAP01_13G(A)_points_2.qtiDat 
+Signal(s) Used :  Mg Ka, Si Ka, Ti Ka, Cr Ka, Fe Ka, Al Ka, Ca Ka, Mn Ka, Ni Ka 
+Spectromers Conditions :   Sp4 TAP,  Sp1 LTAP,  Sp2 PET,  Sp3 LLIF,  Sp5 LIF,  Sp4 TAP,  Sp2 PET,  Sp5 LIF,  Sp3 LLIF 
+Full Spectromers Conditions :   Sp4 TAP(2d= 25.745,K= 0.00218),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp3 LLIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp3 LLIF(2d= 4.0267,K= 0.000058) 
+Column Conditions :  Cond 1 : 15keV 20nA , Cond 2 : 15keV 60nA  
+ 	Cond 1 : Mg Ka, Si Ka, Ti Ka, Cr Ka, Fe Ka 
+ 	Cond 2 : Al Ka, Ca Ka, Mn Ka, Ni Ka 
+Date :  4-Nov-2013 
+User Name :  sx 
+Setup Name :  lucy_ol_1nov2013.qtiSet 
+DataSet Comment :  STAP01_13G(A)_ol16 
+Comment :   
+Analysis Date :  04/11/2013 05:08:50 
+Project Name :  Lucy Tweed 
+Sample Name :  1 November 2013 
+Pha Parameters :  	 
+ 		Bias	Gain	Dtime	Blin	Wind	Mode	 
+  Sp4(Mg Ka)	1306	2697	3	2074	2433	Inte	 
+  Sp1(Si Ka)	1301	2683	3	2008	2194	Inte	 
+  Sp2(Ti Ka)	1298	891	3	890	2548	Inte	 
+  Sp3(Cr Ka)	1819	362	3	560	816	Inte	 
+  Sp5(Fe Ka)	1819	359	3	1007	399	Inte	 
+  Sp4(Al Ka)	1306	2697	3	2074	2433	Inte	 
+  Sp2(Ca Ka)	1298	891	3	890	2548	Inte	 
+  Sp5(Mn Ka)	1819	359	3	1007	399	Inte	 
+  Sp3(Ni Ka)	1819	362	3	560	816	Inte 
+Peak Position :   Sp4 38519 (-500, 500),  Sp1 27734 (-500, 300),  Sp2 31420 (-350, 250),  Sp3 56855 (-250, 300),  Sp5 48105 (-250, 300),  Sp4 32470 (-500, 500),  Sp2 38381 (-300, 250),  Sp5 52217 (200, 1.0221),  Sp3 41162 (-250, 300) 
+Current Sample Position :   X = 12985 Y = -29260 Z = -198 
+Standard Name :   
+ Mg On Olivine (St. Johns) 
+ Si, Ca On Diopside 
+ Ti On Rutile 
+ Cr On Cr 
+ Fe On Fayalite 
+ Al On Cor 
+ Mn On Mn 
+ Ni On NiO 
+Standard composition :   
+ Olivine (St. Johns) = O  : 43.4%, Mg : 29.7%, Si : 19.1%, Mn : 0.1%, Fe : 7.4%, Ni : 0.3% 
+ Diopside = O  : 44.5%, Mg : 11.2%, Si : 25.9%, Ca : 18.4% 
+ Rutile = Ti : 59.95%, O  : 40.05% 
+ Cr = Cr : 100.% 
+ Fayalite = O  : 31.405%, Si : 13.783%, Fe : 54.812% 
+ Cor = O  : 47.1%, Al : 52.9% 
+ Mn = Mn : 100.% 
+ NiO = Ni : 78.5839%, O  : 21.4161% 
+Calibration file name :   
+ Mg : Olivine (St. Johns)_Mg_Mg017.calDat 
+ Si, Ca : Diopside_Si_Si_Ca003.calDat 
+ Ti : Rutile_Ti236.calDat 
+ Cr : Cr_Cr_Cr004.calDat 
+ Fe : Fayalite_Fe_Fe002.calDat 
+ Al : Cor_Al_Al018.calDat 
+ Mn : Mn_Mn_Mn004.calDat 
+ Ni : NiO_Ni_Ni002.calDat 
+Beam Size :  1, 1 µm 
+
+DataSet/Point	Mg	Si	Ti	Cr	Fe	Al	Ca	Mn	Ni	O	X	Y	Z	Comment	Point#	Date	
+1 / 1 . 	430.	243.	257.	307.	952.	41.	64.	204.	143.		12985.	-29260.	-198.	STAP01_13G(A)_ol16	 1	04/11/2013 05:08:50	
+2 / 1 . 	443.	250.	265.	308.	958.	39.	62.	197.	141.		12906.	-29500.	-195.	STAP01_13G(A)_ol16	 2	04/11/2013 05:15:35	
+3 / 1 . 	431.	241.	253.	300.	916.	41.	65.	197.	144.		9217.	-31124.	-179.	STAP01_13G(A)_ol15	 3	04/11/2013 05:22:19	
+4 / 1 . 	437.	247.	258.	305.	895.	41.	64.	207.	144.		9466.	-31165.	-182.	STAP01_13G(A)_ol15	 4	04/11/2013 05:29:06	
+5 / 1 . 	447.	253.	265.	312.	918.	41.	64.	199.	145.		9556.	-30939.	-180.	STAP01_13G(A)_ol15	 5	04/11/2013 05:35:54	
+6 / 1 . 	431.	242.	258.	308.	938.	40.	63.	194.	141.		5945.	-32555.	-165.	STAP01_13G(A)_ol14	 6	04/11/2013 05:42:40	
+7 / 1 . 	432.	242.	247.	293.	895.	41.	65.	206.	145.		6491.	-32950.	-165.	STAP01_13G(A)_ol14	 7	04/11/2013 05:49:23	
+8 / 1 . 	435.	241.	257.	292.	897.	40.	64.	202.	144.		6649.	-32510.	-167.	STAP01_13G(A)_ol14	 8	04/11/2013 05:56:11	
+9 / 1 . 	427.	239.	255.	301.	949.	41.	64.	204.	146.		9174.	-35416.	-175.	STAP01_13G(A)_ol19	 9	04/11/2013 06:02:57	
+10 / 1 . 	442.	246.	255.	312.	1010.	40.	65.	198.	147.		9241.	-35607.	-172.	STAP01_13G(A)_ol19	 10	04/11/2013 06:09:42	
+11 / 1 . 	443.	250.	264.	318.	987.	39.	62.	195.	142.		9507.	-35542.	-175.	STAP01_13G(A)_ol19	 11	04/11/2013 06:16:32	
+12 / 1 . 	445.	248.	257.	297.	897.	39.	63.	195.	143.		13450.	-33961.	-192.	STAP01_13G(A)_ol20	 12	04/11/2013 06:23:14	
+13 / 1 . 	433.	244.	260.	308.	878.	41.	65.	203.	145.		13730.	-33924.	-192.	STAP01_13G(A)_ol20	 13	04/11/2013 06:29:56	
+14 / 1 . 	426.	242.	265.	304.	907.	41.	64.	204.	145.		13682.	-34106.	-193.	STAP01_13G(A)_ol20	 14	04/11/2013 06:36:43	
+15 / 1 . 	433.	243.	259.	315.	945.	41.	65.	206.	146.		18651.	-32213.	-216.	STAP01_13G(A)_ol21	 15	04/11/2013 06:43:30	
+16 / 1 . 	448.	250.	261.	306.	965.	41.	65.	200.	147.		18864.	-32492.	-216.	STAP01_13G(A)_ol21	 16	04/11/2013 06:50:17	
+17 / 1 . 	452.	247.	268.	324.	945.	41.	64.	202.	145.		18883.	-32625.	-214.	STAP01_13G(A)_ol21	 17	04/11/2013 06:57:03	
+18 / 1 . 	445.	248.	269.	319.	914.	39.	63.	198.	145.		14457.	-37001.	-193.	STAP01_13G(A)_ol23	 18	04/11/2013 07:03:50	
+19 / 1 . 	445.	250.	263.	313.	892.	40.	62.	195.	146.		14574.	-36914.	-194.	STAP01_13G(A)_ol23	 19	04/11/2013 07:10:33	
+20 / 1 . 	436.	240.	261.	303.	909.	40.	65.	200.	153.		14522.	-37169.	-195.	STAP01_13G(A)_ol23	 20	04/11/2013 07:17:16	

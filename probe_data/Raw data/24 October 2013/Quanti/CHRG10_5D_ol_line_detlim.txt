@@ -1,0 +1,66 @@
+FileName :   CHRG10_5D_ol_line.qtiDat 
+Signal(s) Used :  Mg Ka, Mn Ka, Ni Ka, Fe Ka, Si Ka, Ca Ka, Al Ka, Ti Ka 
+Spectromers Conditions :   Sp4 TAP,  Sp5 LIF,  Sp3 LLIF,  Sp5 LIF,  Sp1 LTAP,  Sp2 PET,  Sp4 TAP,  Sp2 PET 
+Full Spectromers Conditions :   Sp4 TAP(2d= 25.745,K= 0.00218),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp3 LLIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144) 
+Column Conditions :  Cond 1 : 15keV 60nA  
+Date :  28-Oct-2013 
+User Name :  sx 
+Setup Name :  lucy_ol_24oct2013.qtiSet 
+DataSet Comment :  CHRG10_5D_ol_line 
+Comment :   
+Analysis Date :  27/10/2013 18:05:19 
+Project Name :  Lucy Tweed 
+Sample Name :  24 October 2013 
+Pha Parameters :  	 
+ 		Bias	Gain	Dtime	Blin	Wind	Mode	 
+  Sp4(Mg Ka)	1317	2728	3	2074	2433	Inte	 
+  Sp5(Mn Ka)	1822	364	3	1007	399	Inte	 
+  Sp3(Ni Ka)	1821	359	3	560	816	Inte	 
+  Sp5(Fe Ka)	1822	364	3	1007	399	Inte	 
+  Sp1(Si Ka)	1301	2639	3	2008	2194	Inte	 
+  Sp2(Ca Ka)	1303	917	3	890	2548	Inte	 
+  Sp4(Al Ka)	1317	2728	3	2074	2433	Inte	 
+  Sp2(Ti Ka)	1303	917	3	890	2548	Inte 
+Peak Position :   Sp4 38517 (-500, 500),  Sp5 52203 (200, 1.0221),  Sp3 41166 (-250, 300),  Sp5 48080 (-250, 300),  Sp1 27737 (-500, 300),  Sp2 38382 (-300, 250),  Sp4 32477 (-500, 500),  Sp2 31419 (-350, 250) 
+Current Sample Position :   X = 9834 Y = 3849 Z = -106 
+Standard Name :   
+ Mg On Olivine (St. Johns) 
+ Mn On Mn 
+ Ni On NiO 
+ Fe On Fayalite 
+ Si, Ca On Diopside 
+ Al On Cor 
+ Ti On Rutile 
+Standard composition :   
+ Olivine (St. Johns) = O  : 43.4%, Mg : 29.7%, Si : 19.1%, Mn : 0.1%, Fe : 7.4%, Ni : 0.3% 
+ Mn = Mn : 100.% 
+ NiO = Ni : 78.5839%, O  : 21.4161% 
+ Fayalite = O  : 31.405%, Si : 13.783%, Fe : 54.812% 
+ Diopside = O  : 44.5%, Mg : 11.2%, Si : 25.9%, Ca : 18.4% 
+ Cor = O  : 47.1%, Al : 52.9% 
+ Rutile = Ti : 59.95%, O  : 40.05% 
+Calibration file name :   
+ Mg : Olivine (St. Johns)_Mg_Mg015.calDat 
+ Mn : Mn_Mn_Mn003.calDat 
+ Ni : NiO_Ni_Ni001.calDat 
+ Fe : Fayalite_Fe_Fe001.calDat 
+ Si, Ca : Diopside_Si_Si_Ca002.calDat 
+ Al : Cor_Al_Al016.calDat 
+ Ti : Rutile_Ti235.calDat 
+Beam Size :  1 µm 
+
+DataSet/Point	Mg	Mn	Ni	Fe	Si	Ca	Al	Ti	O	X	Y	Z	Comment	Point#	Date	
+1 / 1 . 	166.	241.	146.	458.	144.	95.	55.	183.		9834.	3849.	-106.	CHRG10_5D_ol_line	 1	27/10/2013 18:05:19	
+1 / 2 . 	201.	238.	145.	469.	143.	76.	49.	173.		9830.8	3844.8	-106.	CHRG10_5D_ol_line	 2	27/10/2013 18:10:29	
+1 / 3 . 	204.	233.	145.	485.	141.	74.	47.	175.		9827.7	3840.7	-106.	CHRG10_5D_ol_line	 3	27/10/2013 18:15:13	
+1 / 4 . 	206.	236.	144.	470.	141.	74.	47.	173.		9824.5	3836.5	-106.	CHRG10_5D_ol_line	 4	27/10/2013 18:19:55	
+1 / 5 . 	205.	234.	143.	444.	142.	73.	47.	176.		9821.4	3832.4	-106.	CHRG10_5D_ol_line	 5	27/10/2013 18:24:39	
+1 / 6 . 	208.	240.	144.	452.	142.	73.	47.	176.		9818.2	3828.2	-106.	CHRG10_5D_ol_line	 6	27/10/2013 18:29:24	
+1 / 7 . 	207.	236.	145.	467.	142.	72.	46.	173.		9815.1	3824.1	-106.	CHRG10_5D_ol_line	 7	27/10/2013 18:34:07	
+1 / 8 . 	206.	244.	144.	479.	142.	73.	47.	172.		9811.9	3819.9	-106.	CHRG10_5D_ol_line	 8	27/10/2013 18:38:50	
+1 / 9 . 	204.	227.	144.	470.	142.	73.	46.	176.		9808.8	3815.8	-106.	CHRG10_5D_ol_line	 9	27/10/2013 18:43:32	
+1 / 10 . 	206.	229.	144.	474.	141.	74.	46.	175.		9805.6	3811.6	-106.	CHRG10_5D_ol_line	 10	27/10/2013 18:48:16	
+1 / 11 . 	206.	234.	143.	479.	142.	74.	47.	176.		9802.5	3807.5	-106.	CHRG10_5D_ol_line	 11	27/10/2013 18:53:02	
+1 / 12 . 	205.	236.	144.	475.	142.	73.	47.	173.		9799.3	3803.3	-106.	CHRG10_5D_ol_line	 12	27/10/2013 18:57:46	
+1 / 13 . 	205.	234.	145.	462.	142.	73.	47.	176.		9796.2	3799.2	-106.	CHRG10_5D_ol_line	 13	27/10/2013 19:02:30	
+1 / 14 . 	205.	225.	144.	460.	142.	73.	47.	174.		9793.	3795.	-106.	CHRG10_5D_ol_line	 14	27/10/2013 19:07:13	

@@ -1,0 +1,73 @@
+FileName :   CHRG10_5A_line.qtiDat 
+Signal(s) Used :  Mg Ka, Si Ka, Ti Ka, Cr Ka, Fe Ka, Al Ka, Ca Ka, Mn Ka, Ni Ka 
+Spectromers Conditions :   Sp4 TAP,  Sp1 LTAP,  Sp2 PET,  Sp3 LLIF,  Sp5 LIF,  Sp4 TAP,  Sp2 PET,  Sp5 LIF,  Sp3 LLIF 
+Full Spectromers Conditions :   Sp4 TAP(2d= 25.745,K= 0.00218),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp3 LLIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp3 LLIF(2d= 4.0267,K= 0.000058) 
+Column Conditions :  Cond 1 : 15keV 20nA , Cond 2 : 15keV 60nA  
+ 	Cond 1 : Mg Ka, Si Ka, Ti Ka, Cr Ka, Fe Ka 
+ 	Cond 2 : Al Ka, Ca Ka, Mn Ka, Ni Ka 
+Date :  11-Nov-2013 
+User Name :  sx 
+Setup Name :  lucy_ol_1nov2013.qtiSet 
+DataSet Comment :  CHRG10_5A_line_ol3 
+Comment :   
+Analysis Date :  04/11/2013 11:06:18 
+Project Name :  Lucy Tweed 
+Sample Name :  1 November 2013 
+Pha Parameters :  	 
+ 		Bias	Gain	Dtime	Blin	Wind	Mode	 
+  Sp4(Mg Ka)	1306	2697	3	2074	2433	Inte	 
+  Sp1(Si Ka)	1301	2683	3	2008	2194	Inte	 
+  Sp2(Ti Ka)	1298	891	3	890	2548	Inte	 
+  Sp3(Cr Ka)	1819	362	3	560	816	Inte	 
+  Sp5(Fe Ka)	1819	359	3	1007	399	Inte	 
+  Sp4(Al Ka)	1306	2697	3	2074	2433	Inte	 
+  Sp2(Ca Ka)	1298	891	3	890	2548	Inte	 
+  Sp5(Mn Ka)	1819	359	3	1007	399	Inte	 
+  Sp3(Ni Ka)	1819	362	3	560	816	Inte 
+Peak Position :   Sp4 38519 (-500, 500),  Sp1 27734 (-500, 300),  Sp2 31420 (-350, 250),  Sp3 56855 (-250, 300),  Sp5 48105 (-250, 300),  Sp4 32470 (-500, 500),  Sp2 38381 (-300, 250),  Sp5 52217 (200, 1.0221),  Sp3 41162 (-250, 300) 
+Current Sample Position :   X = 13464 Y = 30734 Z = 11 
+Standard Name :   
+ Mg On Olivine (St. Johns) 
+ Si, Ca On Diopside 
+ Ti On Rutile 
+ Cr On Cr 
+ Fe On Fayalite 
+ Al On Cor 
+ Mn On Mn 
+ Ni On NiO 
+Standard composition :   
+ Olivine (St. Johns) = O  : 43.4%, Mg : 29.7%, Si : 19.1%, Mn : 0.1%, Fe : 7.4%, Ni : 0.3% 
+ Diopside = O  : 44.5%, Mg : 11.2%, Si : 25.9%, Ca : 18.4% 
+ Rutile = Ti : 59.95%, O  : 40.05% 
+ Cr = Cr : 100.% 
+ Fayalite = O  : 31.405%, Si : 13.783%, Fe : 54.812% 
+ Cor = O  : 47.1%, Al : 52.9% 
+ Mn = Mn : 100.% 
+ NiO = Ni : 78.5839%, O  : 21.4161% 
+Calibration file name :   
+ Mg : Olivine (St. Johns)_Mg_Mg017.calDat 
+ Si, Ca : Diopside_Si_Si_Ca003.calDat 
+ Ti : Rutile_Ti236.calDat 
+ Cr : Cr_Cr_Cr004.calDat 
+ Fe : Fayalite_Fe_Fe002.calDat 
+ Al : Cor_Al_Al018.calDat 
+ Mn : Mn_Mn_Mn004.calDat 
+ Ni : NiO_Ni_Ni002.calDat 
+Beam Size :  1, 1 µm 
+
+DataSet/Point	Mg	Si	Ti	Cr	Fe	Al	Ca	Mn	Ni	O	X	Y	Z	Comment	Distance (µ)	Point#	Date	
+1 / 1 . 	421.	241.	261.	292.	979.	40.	64.	193.	142.		13464.	30734.	11.	CHRG10_5A_line_ol3	0.	 1	04/11/2013 11:06:18	
+1 / 2 . 	439.	247.	269.	313.	1000.	41.	65.	208.	147.		13459.2	30727.3	11.	CHRG10_5A_line_ol3	8.25	 2	04/11/2013 11:12:53	
+1 / 3 . 	431.	249.	272.	302.	1015.	40.	64.	195.	142.		13454.4	30720.6	11.	CHRG10_5A_line_ol3	16.49	 3	04/11/2013 11:19:33	
+1 / 4 . 	419.	245.	265.	306.	1086.	41.	65.	210.	146.		13449.6	30713.9	11.	CHRG10_5A_line_ol3	24.74	 4	04/11/2013 11:26:10	
+1 / 5 . 	430.	247.	275.	312.	1095.	41.	66.	210.	149.		13444.9	30707.1	11.	CHRG10_5A_line_ol3	32.98	 5	04/11/2013 11:32:56	
+1 / 6 . 	428.	244.	271.	316.	1111.	40.	63.	202.	142.		13440.1	30700.4	11.	CHRG10_5A_line_ol3	41.23	 6	04/11/2013 11:39:37	
+1 / 7 . 	419.	237.	258.	297.	1040.	41.	66.	211.	150.		13435.3	30693.7	11.	CHRG10_5A_line_ol3	49.47	 7	04/11/2013 11:46:14	
+1 / 8 . 	425.	247.	276.	308.	1081.	40.	63.	198.	142.		13430.5	30687.	11.	CHRG10_5A_line_ol3	57.72	 8	04/11/2013 11:52:57	
+1 / 9 . 	424.	245.	271.	311.	1060.	42.	64.	215.	147.		13425.7	30680.3	11.	CHRG10_5A_line_ol3	65.96	 9	04/11/2013 11:59:34	
+1 / 10 . 	419.	239.	265.	310.	1034.	40.	64.	208.	144.		13420.9	30673.6	11.	CHRG10_5A_line_ol3	74.21	 10	04/11/2013 12:06:13	
+1 / 11 . 	430.	247.	269.	304.	1070.	41.	66.	209.	148.		13416.1	30666.9	11.	CHRG10_5A_line_ol3	82.45	 11	04/11/2013 12:12:54	
+1 / 12 . 	424.	245.	267.	312.	1087.	42.	65.	215.	149.		13411.4	30660.1	11.	CHRG10_5A_line_ol3	90.7	 12	04/11/2013 12:19:34	
+1 / 13 . 	432.	247.	267.	315.	1042.	41.	65.	212.	148.		13406.6	30653.4	11.	CHRG10_5A_line_ol3	98.94	 13	04/11/2013 12:26:16	
+1 / 14 . 	423.	242.	266.	312.	1073.	40.	63.	201.	143.		13401.8	30646.7	11.	CHRG10_5A_line_ol3	107.19	 14	04/11/2013 12:32:53	
+1 / 15 . 	425.	244.	274.	302.	1071.	41.	66.	204.	150.		13397.	30640.	11.	CHRG10_5A_line_ol3	115.43	 15	04/11/2013 12:39:34	

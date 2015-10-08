@@ -1,0 +1,73 @@
+FileName :   09KS_04(A)_ol20_profile.qtiDat 
+Signal(s) Used :  Mg Ka, Si Ka, P  Ka, Fe Ka, Ti Ka, Cr Ka, Al Ka, Ca Ka, Mn Ka, Ni Ka 
+Spectromers Conditions :   Sp4 TAP,  Sp1 LTAP,  Sp3 LPET,  Sp5 LIF,  Sp2 PET,  Sp5 LIF,  Sp4 TAP,  Sp3 LPET,  Sp5 LIF,  Sp5 LIF 
+Full Spectromers Conditions :   Sp4 TAP(2d= 25.745,K= 0.00218),  Sp1 LTAP(2d= 25.745,K= 0.00218),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp2 PET(2d= 8.75,K= 0.000144),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp4 TAP(2d= 25.745,K= 0.00218),  Sp3 LPET(2d= 8.75,K= 0.000144),  Sp5 LIF(2d= 4.0267,K= 0.000058),  Sp5 LIF(2d= 4.0267,K= 0.000058) 
+Column Conditions :  Cond 1 : 15keV 20nA , Cond 2 : 15keV 60nA  
+ 	Cond 1 : Mg Ka, Si Ka, P  Ka, Fe Ka, Ti Ka, Cr Ka 
+ 	Cond 2 : Al Ka, Ca Ka, Mn Ka, Ni Ka 
+Date :  11-Nov-2013 
+User Name :  sx 
+Setup Name :  lucy_ol_8nov2013.qtiSet 
+DataSet Comment :  09KS_04(A)_ol20_profile 
+Comment :   
+Analysis Date :  10/11/2013 12:48:51 
+Project Name :  Lucy Tweed 
+Sample Name :  8 Nov 2013 
+Pha Parameters :  	 
+ 		Bias	Gain	Dtime	Blin	Wind	Mode	 
+  Sp4(Mg Ka)	1310	2759	3	2074	2433	Inte	 
+  Sp1(Si Ka)	1296	2612	3	2008	2194	Inte	 
+  Sp3(P  Ka)	1827	815	3	560	791	Inte	 
+  Sp5(Fe Ka)	1820	361	3	1007	399	Inte	 
+  Sp2(Ti Ka)	1302	897	3	890	2548	Inte	 
+  Sp5(Cr Ka)	1819	359	3	1007	399	Inte	 
+  Sp4(Al Ka)	1310	2759	3	2074	2433	Inte	 
+  Sp3(Ca Ka)	1827	815	3	560	791	Inte	 
+  Sp5(Mn Ka)	1820	361	3	1007	399	Inte	 
+  Sp5(Ni Ka)	1820	361	3	1007	399	Inte 
+Peak Position :   Sp4 38514 (-500, 500),  Sp1 27742 (-500, 300),  Sp3 70305 (-700, 600),  Sp5 48082 (-250, 300),  Sp2 31427 (-350, 250),  Sp5 56882 (-250, 300),  Sp4 32471 (-500, 500),  Sp3 38386 (-300, 250),  Sp5 52202 (200, 1.0221),  Sp5 41163 (-250, 300) 
+Current Sample Position :   X = -19268 Y = -29964 Z = -41 
+Standard Name :   
+ Mg On Olivine (St. Johns) 
+ Si, Ca On Diopside 
+ P  On Apatite 
+ Fe On Fayalite 
+ Ti On Rutile 
+ Cr On Cr 
+ Al On Cor 
+ Mn On Mn 
+ Ni On NiO 
+Standard composition :   
+ Olivine (St. Johns) = O  : 43.4%, Mg : 29.7%, Si : 19.1%, Mn : 0.1%, Fe : 7.4%, Ni : 0.3% 
+ Diopside = O  : 44.5%, Mg : 11.2%, Si : 25.9%, Ca : 18.4% 
+ Apatite = O  : 38.1%, F  : 3.4%, P  : 18.4%, Cl : 0.4%, Ca : 39.7% 
+ Fayalite = O  : 31.405%, Si : 13.783%, Fe : 54.812% 
+ Rutile = Ti : 59.95%, O  : 40.05% 
+ Cr = Cr : 100.% 
+ Cor = O  : 47.1%, Al : 52.9% 
+ Mn = Mn : 100.% 
+ NiO = Ni : 78.5839%, O  : 21.4161% 
+Calibration file name :   
+ Mg : Olivine (St. Johns)_Mg_Mg018.calDat 
+ Si, Ca : Diopside_Si_Si_Ca_Ca021.calDat 
+ P  : Apatite_P_P009.calDat 
+ Fe : Fayalite_Fe258.calDat 
+ Ti : Rutile_Ti_Ti031.calDat 
+ Cr : Cr_Cr_Cr004.calDat 
+ Al : Cor_Al_Al019.calDat 
+ Mn : Mn_Mn266.calDat 
+ Ni : NiO_Ni066.calDat 
+Beam Size :  1, 1 µm 
+
+DataSet/Point	Mg	Si	P	Fe	Ti	Cr	Al	Ca	Mn	Ni	O	X	Y	Z	Comment	Distance (µ)	Point#	Date	
+1 / 1 . 	363.	251.	123.	969.	311.	479.	137.	126.	227.	231.		-19268.	-29964.	-41.	09KS_04(A)_ol20_profile	0.	 1	10/11/2013 12:48:51	
+1 / 2 . 	366.	252.	122.	932.	302.	554.	142.	123.	240.	239.		-19287.9	-29964.	-41.	09KS_04(A)_ol20_profile	19.9	 2	10/11/2013 12:57:17	
+1 / 3 . 	369.	254.	115.	912.	311.	521.	136.	126.	228.	232.		-19307.8	-29964.	-41.	09KS_04(A)_ol20_profile	39.8	 3	10/11/2013 13:05:51	
+1 / 4 . 	363.	255.	124.	957.	300.	491.	138.	127.	242.	235.		-19327.7	-29964.	-41.	09KS_04(A)_ol20_profile	59.7	 4	10/11/2013 13:14:15	
+1 / 5 . 	359.	244.	111.	900.	307.	498.	134.	125.	233.	235.		-19347.6	-29964.	-41.	09KS_04(A)_ol20_profile	79.6	 5	10/11/2013 13:22:42	
+1 / 6 . 	357.	242.	118.	833.	300.	489.	135.	123.	236.	232.		-19367.5	-29964.	-41.	09KS_04(A)_ol20_profile	99.5	 6	10/11/2013 13:31:10	
+1 / 7 . 	363.	254.	123.	882.	296.	513.	138.	128.	236.	235.		-19387.4	-29964.	-41.	09KS_04(A)_ol20_profile	119.4	 7	10/11/2013 13:39:34	
+1 / 8 . 	352.	244.	111.	871.	296.	468.	141.	129.	246.	242.		-19407.3	-29964.	-41.	09KS_04(A)_ol20_profile	139.3	 8	10/11/2013 13:48:03	
+1 / 9 . 	361.	254.	114.	972.	298.	489.	141.	126.	240.	238.		-19427.2	-29964.	-41.	09KS_04(A)_ol20_profile	159.2	 9	10/11/2013 13:56:29	
+1 / 10 . 	364.	253.	118.	935.	312.	473.	142.	128.	243.	240.		-19447.1	-29964.	-41.	09KS_04(A)_ol20_profile	179.1	 10	10/11/2013 14:04:54	
+1 / 11 . 	354.	244.	120.	806.	297.	467.	137.	128.	249.	242.		-19467.	-29964.	-41.	09KS_04(A)_ol20_profile	199.	 11	10/11/2013 14:13:21	
